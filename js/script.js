@@ -1,3 +1,3 @@
 
 
-alert("hello word");
+// alert("hello word");//
